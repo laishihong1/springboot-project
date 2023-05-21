@@ -5,38 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="16313fb2-b12f-4c63-a1a2-b4a5e7d66580" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/contact/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/ContactApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/Listener/SendWsListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/controller/ControllerSimpleUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/controller/utils/R.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/dao/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/dao/UserReplyDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/dao/UserStatisticsDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/daomin/user.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/daomin/user_reply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/daomin/user_statistics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/interceptor/CorsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/interceptor/LoginInterceptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/service/UserReply.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/service/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/service/UserStatisticsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/service/impl/UserReplyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/service/impl/UserStatisticsService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/service/impl/userService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/src/main/resources/application.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contact/src/test/java/springbooy/contact/ContactApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../my-project" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,7 +23,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -212,7 +181,7 @@
       <workItem from="1684456065182" duration="12931000" />
       <workItem from="1684495513727" duration="15784000" />
       <workItem from="1684544427285" duration="20583000" />
-      <workItem from="1684634364515" duration="7692000" />
+      <workItem from="1684634364515" duration="8220000" />
     </task>
     <servers />
   </component>
@@ -236,38 +205,38 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="496" y="112" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1684304018113" />
-    <state width="1483" height="119" key="GridCell.Tab.0.bottom" timestamp="1684640292276">
+    <state width="1483" height="119" key="GridCell.Tab.0.bottom" timestamp="1684677861656">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="119" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1684640292276" />
-    <state width="1483" height="119" key="GridCell.Tab.0.center" timestamp="1684640292276">
+    <state width="1483" height="119" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1684677861656" />
+    <state width="1483" height="119" key="GridCell.Tab.0.center" timestamp="1684677861656">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="119" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1684640292276" />
-    <state width="1483" height="119" key="GridCell.Tab.0.left" timestamp="1684640292276">
+    <state width="1483" height="119" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1684677861656" />
+    <state width="1483" height="119" key="GridCell.Tab.0.left" timestamp="1684677861656">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="119" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1684640292276" />
-    <state width="1483" height="119" key="GridCell.Tab.0.right" timestamp="1684640292276">
+    <state width="1483" height="119" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1684677861656" />
+    <state width="1483" height="119" key="GridCell.Tab.0.right" timestamp="1684677861656">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="119" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1684640292276" />
-    <state width="1483" height="119" key="GridCell.Tab.1.bottom" timestamp="1684640292276">
+    <state width="1483" height="119" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1684677861656" />
+    <state width="1483" height="119" key="GridCell.Tab.1.bottom" timestamp="1684677861657">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="119" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1684640292276" />
-    <state width="1483" height="119" key="GridCell.Tab.1.center" timestamp="1684640292276">
+    <state width="1483" height="119" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1684677861657" />
+    <state width="1483" height="119" key="GridCell.Tab.1.center" timestamp="1684677861656">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="119" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1684640292276" />
-    <state width="1483" height="119" key="GridCell.Tab.1.left" timestamp="1684640292276">
+    <state width="1483" height="119" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1684677861656" />
+    <state width="1483" height="119" key="GridCell.Tab.1.left" timestamp="1684677861656">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="119" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1684640292276" />
-    <state width="1483" height="119" key="GridCell.Tab.1.right" timestamp="1684640292276">
+    <state width="1483" height="119" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1684677861656" />
+    <state width="1483" height="119" key="GridCell.Tab.1.right" timestamp="1684677861657">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1483" height="119" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1684640292276" />
+    <state width="1483" height="119" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1684677861657" />
     <state x="183" y="3" key="Maven.ArtifactSearchDialog" timestamp="1684316264630">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
