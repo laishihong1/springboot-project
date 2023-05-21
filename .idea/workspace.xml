@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16313fb2-b12f-4c63-a1a2-b4a5e7d66580" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/contact/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/ContactApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/Listener/SendWsListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/controller/ControllerSimpleUser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/controller/utils/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/dao/UserReplyDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/dao/UserStatisticsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/daomin/user.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/daomin/user_reply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/daomin/user_statistics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/interceptor/CorsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/interceptor/LoginInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/service/UserReply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/service/UserStatisticsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/service/impl/UserReplyService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/service/impl/UserStatisticsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/src/main/java/springbooy/contact/service/impl/userService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/contact/src/test/java/springbooy/contact/ContactApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.annotation.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.ejb.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.jms.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.persistence.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.resource.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.servlet.jsp.jstl.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/javax.transaction.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../my-project" beforeDir="false" afterPath="$PROJECT_DIR$/../my-project" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Tag Library Descriptor" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.4\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2PthZeedXpT0NbZuQi6S64mmWB8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15377778" />
+    <property name="project.structure.side.proportion" value="0.27473682" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Vue-design-project\SpringBoot\contact\src\main\java\springbooy\contact\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ContactApplication">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactApplicationTests.getUserAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="contact" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="springbooy.contact.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="springbooy.contact" />
+      <option name="MAIN_CLASS_NAME" value="springbooy.contact.ContactApplicationTests" />
+      <option name="METHOD_NAME" value="getUserAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactApplicationTests.getUserReplyAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="contact" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="springbooy.contact.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="springbooy.contact" />
+      <option name="MAIN_CLASS_NAME" value="springbooy.contact.ContactApplicationTests" />
+      <option name="METHOD_NAME" value="getUserReplyAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactApplicationTests.getUserReplySearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="contact" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="springbooy.contact.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="springbooy.contact" />
+      <option name="MAIN_CLASS_NAME" value="springbooy.contact.ContactApplicationTests" />
+      <option name="METHOD_NAME" value="getUserReplySearch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactApplicationTests.getUserSearch" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="contact" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="springbooy.contact.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="springbooy.contact" />
+      <option name="MAIN_CLASS_NAME" value="springbooy.contact.ContactApplicationTests" />
+      <option name="METHOD_NAME" value="getUserSearch" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="contact" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="springbooy.contact.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="springbooy.contact.ContactApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ContactApplication" />
+        <item itemvalue="JUnit.ContactApplicationTests.getUserSearch" />
+        <item itemvalue="JUnit.ContactApplicationTests.getUserAll" />
+        <item itemvalue="JUnit.ContactApplicationTests.getUserReplySearch" />
+        <item itemvalue="JUnit.ContactApplicationTests.getUserReplyAll" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16313fb2-b12f-4c63-a1a2-b4a5e7d66580" name="Default Changelist" comment="" />
+      <created>1684282343769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684282343769</updated>
+      <workItem from="1684282346799" duration="185000" />
+      <workItem from="1684282545553" duration="1177000" />
+      <workItem from="1684283746877" duration="10095000" />
+      <workItem from="1684303719007" duration="13648000" />
+      <workItem from="1684321111860" duration="14500000" />
+      <workItem from="1684368294119" duration="15279000" />
+      <workItem from="1684399612352" duration="14678000" />
+      <workItem from="1684454684919" duration="1114000" />
+      <workItem from="1684456065182" duration="12931000" />
+      <workItem from="1684495513727" duration="15784000" />
+      <workItem from="1684544427285" duration="20583000" />
+      <workItem from="1684634364515" duration="7692000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="527" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1684639950286">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="527" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1684639950286" />
+    <state x="499" y="277" width="537" height="321" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1684505191970">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="277" width="537" height="321" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.864@0.0.1536.864" timestamp="1684505191970" />
+    <state x="433" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1684308629567">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="433" y="119" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.864@0.0.1536.864" timestamp="1684308629567" />
+    <state x="496" y="112" key="FileChooserDialogImpl" timestamp="1684304018113">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="496" y="112" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1684304018113" />
+    <state width="1483" height="119" key="GridCell.Tab.0.bottom" timestamp="1684640292276">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="119" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1684640292276" />
+    <state width="1483" height="119" key="GridCell.Tab.0.center" timestamp="1684640292276">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="119" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1684640292276" />
+    <state width="1483" height="119" key="GridCell.Tab.0.left" timestamp="1684640292276">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="119" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1684640292276" />
+    <state width="1483" height="119" key="GridCell.Tab.0.right" timestamp="1684640292276">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="119" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1684640292276" />
+    <state width="1483" height="119" key="GridCell.Tab.1.bottom" timestamp="1684640292276">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="119" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1684640292276" />
+    <state width="1483" height="119" key="GridCell.Tab.1.center" timestamp="1684640292276">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="119" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1684640292276" />
+    <state width="1483" height="119" key="GridCell.Tab.1.left" timestamp="1684640292276">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="119" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1684640292276" />
+    <state width="1483" height="119" key="GridCell.Tab.1.right" timestamp="1684640292276">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1483" height="119" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1684640292276" />
+    <state x="183" y="3" key="Maven.ArtifactSearchDialog" timestamp="1684316264630">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="183" y="3" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1684316264630" />
+    <state x="344" y="71" key="NewModule_or_Project.wizard" timestamp="1684304021366">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="344" y="71" key="NewModule_or_Project.wizard/0.0.1536.864@0.0.1536.864" timestamp="1684304021366" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1684313306682">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1684313306682" />
+    <state width="623" height="515" key="SwitcherDM" timestamp="1684316982963">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="623" height="515" key="SwitcherDM/0.0.1536.864@0.0.1536.864" timestamp="1684316982963" />
+    <state x="341" y="193" key="run.anything.popup" timestamp="1684288899169">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="341" y="193" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1684288899169" />
+    <state x="347" y="0" width="840" height="1034" key="search.everywhere.popup" timestamp="1684504809462">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="347" y="0" width="840" height="1034" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1684504809462" />
+    <state x="315" y="40" key="spring file set editor" timestamp="1684315737015">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="315" y="40" key="spring file set editor/0.0.1536.864@0.0.1536.864" timestamp="1684315737015" />
+  </component>
+</project>
